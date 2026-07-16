@@ -9,4 +9,3 @@ void main(List<String> args) {
 void buyMeal(String? favoriteFood) {
   print('I want to buy $favoriteFood');
 }
-
